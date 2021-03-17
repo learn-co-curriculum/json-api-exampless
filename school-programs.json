@@ -1,0 +1,50 @@
+{
+  "category": "after school programs",
+  "programs": [
+    {
+      "id": 123123,
+      "title": "Study Hall",
+      "schedule": {
+        start: "3:00 pm",
+        end: "5:00 pm"
+      },
+      "location": "Hall D, Room 3",
+    },
+    {
+      "id": 123124,
+      "title": "English Tutoring",
+      "schedule": {
+        "start": "3:00 pm",
+        "end": "4:30 pm"
+      },
+      "location": "Hall B, Room 2",
+    },
+    {
+      "id": 123125,
+      "title": "Driving Lessons",
+      "schedule": {
+        "start": "4:00 pm",
+        "end": "6:00 pm"
+      },
+      "location": "Courtyard",
+    },
+    {
+      "id": 123126,
+      "title": "Detention",
+      "schedule": {
+        "start": "3:00 pm",
+        "end": "5:00 pm"
+      },
+      "location": "Hall A, Room 1",
+    },
+    {
+      "id": 123127,
+      "title": "Science Club",
+      "schedule": {
+        "start": "3:30 pm",
+        "end": "4:30 pm"
+      },
+      "location": "Hall B, Room 3",
+    }
+  ]
+}
