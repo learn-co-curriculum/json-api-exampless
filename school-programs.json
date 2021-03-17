@@ -5,8 +5,8 @@
       "id": 123123,
       "title": "Study Hall",
       "schedule": {
-        start: "3:00 pm",
-        end: "5:00 pm"
+        "start": "3:00 pm",
+        "end": "5:00 pm"
       },
       "location": "Hall D, Room 3",
     },
